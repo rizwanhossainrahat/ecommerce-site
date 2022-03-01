@@ -1,0 +1,6 @@
+basic tag:<p></p>
+attribute tag:<img src=></img>,<a href=""></a>
+contrainer tag:<ol>
+                       <li>                    </li>
+                 </ol>
+semantic tag : dakhle e buja jabe purpase ki.<strong></strong>
